@@ -18,6 +18,7 @@ layout: default
 * Social Quantum
 * Undev
 * Sportweek
+* и друие
 
 ### Проекты
 
@@ -26,6 +27,7 @@ layout: default
 * linkfeed.ru
 * trustlink.ru
 * ivacy.com
+* и другие
 
 
 ## Контакты
