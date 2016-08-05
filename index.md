@@ -41,3 +41,4 @@ email: <a href='mailto:sergei.udalov@gmail.com'>sergei.udalov@gmail.com</a>
 skype: <a href='skype:mac_jimbo?call'>mac_jimbo</a>
 
 
+<div style="margin:0 auto;" id="zbwid-eaa67419"></div>
