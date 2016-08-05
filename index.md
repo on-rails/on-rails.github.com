@@ -22,6 +22,7 @@ layout: default
 
 ### Проекты
 
+* hiring-hub.com
 * georush.com
 * top-inspector.ru
 * linkfeed.ru
